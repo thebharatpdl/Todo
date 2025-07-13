@@ -78,11 +78,16 @@ Initially used prop drilling which became messy. Switched to Context API which h
 
 ```mermaid
 graph TD
-    A[Next Version] --> B[Cloud Sync]
-    A --> C[Dark Mode]
-    A --> D[Natural Language Input]
-    B --> E[Firebase Integration]
-    C --> F[System Theme Detection]
+    A[Routing] --> B[Expo Router]
+    A --> C[Type-safe deep links]
+    D[Performance] --> E[Virtualized lists]
+    D --> F[Progressive loading]
+
+
+
+
+
+
 
 
 
