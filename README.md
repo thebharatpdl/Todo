@@ -1,6 +1,6 @@
 # Task Manager App
 
-![App Screenshot](./assets/screenshot.png) <!-- Add your screenshot if available -->
+![App Screenshot](./assets/Screenshot.png) <!-- Add your screenshot if available -->
 
 A beautiful and functional task management application built with Expo and React Native. Manage your projects and tasks with an intuitive interface.
 
@@ -39,7 +39,7 @@ A beautiful and functional task management application built with Expo and React
     expo start
 
 
-Running
+### Running
 iOS: expo run:ios
 
 Android: expo run:android
